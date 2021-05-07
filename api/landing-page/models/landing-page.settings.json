@@ -35,12 +35,20 @@
     "sectionTech": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-tech"
+      "component": "page.section-tech",
+      "required": true
     },
     "sectionConcepts": {
       "type": "component",
       "repeatable": false,
-      "component": "page.section-concepts"
+      "component": "page.section-concepts",
+      "required": false
+    },
+    "sectionModules": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-modules",
+      "required": false
     }
   }
 }
