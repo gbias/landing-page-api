@@ -15,7 +15,7 @@
       "repeatable": true,
       "component": "page.questions",
       "required": true,
-      "max": 2
+      "min": 2
     }
   }
 }

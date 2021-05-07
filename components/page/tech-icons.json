@@ -2,7 +2,7 @@
   "collectionName": "components_page_tech_icons",
   "info": {
     "name": "techIcons",
-    "icon": "wrench"
+    "icon": "tools"
   },
   "options": {},
   "attributes": {
@@ -13,8 +13,7 @@
         "images"
       ],
       "plugin": "upload",
-      "required": true,
-      "pluginOptions": {}
+      "required": true
     },
     "title": {
       "type": "string",
